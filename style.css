@@ -1,0 +1,17 @@
+h1{color: rgb(0, 255, 119);font-size: 50;}
+body
+{background-image: url(Earth.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position:center;  
+    color: rgb(189, 179, 245);
+    font-weight: 500;
+    font-style: italic;
+    font-size: 20px;
+    word-spacing: normal;
+    
+}
+
+
+
